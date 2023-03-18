@@ -1,0 +1,4 @@
+The customer might want to use a private repository rather than a public one for a few reasons. 
+One reason may be that the customer wants to keep their work confidential and not publicly accessible. 
+They may also be using proprietary data or information that they do not want to share publicly. 
+Additionally, using a private repository allows for more control over access and permissions for the repository, which can be useful for managing a team or project.
